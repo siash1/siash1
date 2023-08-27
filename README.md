@@ -42,3 +42,17 @@
 <br clear="both">
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siash1&label=Profile%20views&color=0e75b6&style=flat" alt="siash1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siash1" alt="siash1" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siash1&show_icons=true&theme=dark&locale=en&layout=compact" alt="siash1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siash1&show_icons=true&theme=dark&locale=en" alt="siash1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siash1&theme=dark" alt="siash1" /></p>
