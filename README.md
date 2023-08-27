@@ -51,8 +51,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siash1&show_icons=true&theme=dark&locale=en&layout=compact" alt="siash1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siash1&show_icons=true&theme=radical&locale=en&layout=compact" alt="siash1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siash1&show_icons=true&theme=dark&locale=en" alt="siash1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siash1&show_icons=true&theme=radical&locale=en" alt="siash1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siash1&theme=dark" alt="siash1" /></p>
