@@ -35,6 +35,9 @@
   <a href="https://www.linkedin.com/in/ashish-bisht-466593184/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/siash01/count.svg?"  />
+</div>
 </div>
 
 ###
@@ -43,7 +46,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siash1&label=Profile%20views&color=0e75b6&style=flat" alt="siash1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siash1" alt="siash1" /></a> </p>
 
@@ -54,5 +57,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siash1&show_icons=true&theme=radical&locale=en&layout=compact" alt="siash1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siash1&show_icons=true&theme=radical&locale=en" alt="siash1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siash1&theme=dark" alt="siash1" /></p>
