@@ -35,9 +35,9 @@
   <a href="https://www.linkedin.com/in/ashish-bisht-466593184/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <br clear="both">
+<br clear="both">
 
-  <div align="center">
+  <div align="left">
   <img src="https://profile-counter.glitch.me/siash01/count.svg?"  />
 </div>
 </div>
